@@ -1,2 +1,2 @@
-# complete-javascript
+# complete-javascript-project
 Javascript
